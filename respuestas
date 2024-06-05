@@ -1,0 +1,42 @@
+              Salida escolar / Moisés /
+Elías Vargas Chaile 6toG
+1)¿Qué es Hack The Box y como puede ser utilizado para mejorar nuestras habilidades en ciberseguridad?
+Hack The Box es una herramienta valiosa para aquellos que buscan mejorar sus habilidades en ciberseguridad al proporcionar un entorno practico, desafíos realistas y una comunidad activa.
+
+2)¿Qué es Bug Bounty y cuál es su importancia en el campo de la ciberseguridad?
+Bug Bounty es una herramienta efectiva para mejorar la seguridad de los sistemas informáticos al permitir la identificación temprana y la corrección de vulnerabilidades, mientras se aprovecha el conocimiento y la experiencia de una amplia comunidad de expertos en seguridad.
+
+3)¿Cuáles son las plataformas más populares para participar en programas de Bug Bounty?
+
+Las plataformas más populares son:
+HackerOne – Bugcrowd – Synack – Intigriti - YesWeHack
+Estas son solo algunas de las plataformas más populares, pero hay otras más pequeñas y especializadas que también ofrecen oportunidades para participar en programas de Bug Bounty.
+
+4)¿Qué habilidades técnicas son necesarias para tener éxito en Bug Bounty?
+Algunas de las habilidades necesarias son:
+Conocimiento de programación - Conocimiento de tecnologías web - Conocimientos de seguridad informática - Conocimientos de sistemas operativos - Herramientas de seguridad - Pensamiento creativo y habilidades de resolución de problemas - Comunicación efectiva
+
+5)¿Qué tipos de desafíos se pueden encontrar en una competencia CTF?
+Estos son solo algunos ejemplos de los tipos de desafíos que se pueden encontrar en una competencia CTF. Los desafíos pueden variar en dificultad y complejidad, y a menudo requieren una combinación de habilidades técnicas y creatividad para resolverlos.
+Web Exploitation (Explotación Web) - Forensics (Forense) - Reversing (Ingeniería Inversa) - Crypto (Criptografía) - Pwn (Explotación de Sistemas) - Steganography (Esteganografía)
+
+6)¿Cómo se estructura típicamente un desafio en Hack the box?
+
+La estructura típica de un desafío en Hack The Box incluye información sobre el título, la descripción, la puntuación y la dificultad, el tipo de desafío, las condiciones de éxito, un entorno de laboratorio virtual, la entrega de la bandera y recursos adicionales como pistas y foros de discusión.
+7)¿Cuáles son los principales riesgos de ciberseguridad en sistemas de control industrial(ICS)?
+
+Los principales riesgos son:
+Acceso no autorizado - Inyección de código malicioso - Vulnerabilidades de software y firmware - Ataques de denegación de servicio (DoS) - Intercepción y manipulación de comunicaciones - Falta de autenticación y autorización adecuadas - Falta de conciencia y capacitación en seguridad
+
+8)¿Qué herramientas se utilizan comúnmente para realizar pentesting en ICS?
+Unas de las herramientas son:
+SCADA Hacking 
+ToolsModbus Poll / ModScan: Para explorar y supervisar dispositivos que utilizan el protocolo Modbus.
+DNP3 Scan: Para identificar y analizar dispositivos que utilizan el protocolo DNP3 (Distributed Network Protocol 3).
+OPCEnum / OPCScan: Para detectar y enumerar objetos y servicios que utilizan el estándar OPC (OLE for Process Control).
+Wireshark: Una herramienta de análisis de protocolos de red que puede utilizarse para inspeccionar el tráfico de red en sistemas de control industrial y detectar posibles vulnerabilidades.
+Framework ICS/SCADA (específicamente para la evaluación de la seguridad en sistemas de control industrial y SCADA)
+Herramientas de pruebas de penetración generales (utilizadas para evaluar la seguridad de sistemas de control industrial, aunque con consideraciones especiales. )
+Nmap: Para escanear redes y descubrir dispositivos conectados.
+Metasploit: Para realizar pruebas de penetración y explotar vulnerabilidades conocidas en sistemas y servicios.
+Shodan: Para buscar dispositivos industriales conectados a Internet y analizar su seguridad.
